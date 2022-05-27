@@ -1,0 +1,52 @@
+.Title{
+    font-size: 1.5rem;
+    text-align: left;
+}
+
+.Box{
+    width: 500px;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
+    background-color: blanchedalmond;
+    font-size: x-large;
+    text-align: center;  
+
+}
+
+.lrn{
+    font-weight: bold;
+}
+
+.modal{
+    display: none;
+}
+
+.cancelbtn{
+    background-color: #3498db;
+    color: #ecf0f1;
+    border-color: rgb(255, 255, 255);
+}
+
+.deletebtn{
+    background-color: #e74c3c;
+    color: #ecf0f1;
+    border-color: rgb(255, 255, 255) ;
+}
+
+button{
+    padding: 10px 30px ;
+    margin: 5px 0;
+    border: none;
+    cursor: pointer;
+    font-size: medium;
+}
+
+.container{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 50%; 
+    background-color: blanchedalmond;
+}
