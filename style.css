@@ -4,7 +4,8 @@
 }
 
 .Box{
-    width: 500px;
+    width: 35%;
+    height: 50%;
     border: 15px;
     padding: 50px;
     margin: 20px;
@@ -35,7 +36,7 @@
 }
 
 button{
-    padding: 10px 30px ;
+    padding: 10px 10px ;
     margin: 5px 0;
     border: none;
     cursor: pointer;
@@ -49,4 +50,6 @@ button{
     transform: translate(-50%, -50%);
     width: 50%; 
     background-color: blanchedalmond;
+    width: auto;
+    height: auto;
 }
